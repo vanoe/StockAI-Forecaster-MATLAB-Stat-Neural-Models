@@ -7,7 +7,7 @@ Built in **MATLAB**, this tool gives both quick short-term forecasts and deeper 
 
 ## 🛠️ Scheme
 
-*(Insert diagram or flowchart here showing Baseline vs AI-Refined pipelines)*
+<img src="./img/img-1.png" alt="Scheme" />
 
 ---
 
