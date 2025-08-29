@@ -54,6 +54,14 @@ It uses historical price data, technical indicators, and macroeconomic factors t
     </tbody>
 </table>
 
+<img src="./img/img-8.webp" alt="img" />
+
+<img src="./img/img-9.webp" alt="img" />
+
+<video src=" " controls preload>
+    Your browser does not support the video tag.
+</video>
+
 ## 📖 Full Description
 
 <details>
