@@ -58,7 +58,7 @@ It uses historical price data, technical indicators, and macroeconomic factors t
 
 <img src="./img/img-9.webp" alt="img" />
 
-<video src=" " controls preload>
+<video src="https://github.com/user-attachments/assets/3e8bd439-8dde-441b-8104-5caf7ffdb93c" controls preload>
     Your browser does not support the video tag.
 </video>
 
